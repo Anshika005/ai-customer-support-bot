@@ -22,10 +22,7 @@ The bot simulates a real support assistant that answers user queries, maintains 
 
 | Chat Interface | Typing Animation | Escalation Example |
 | :-------------: | :--------------: | :----------------: |
-| ![Chat UI](<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/b948587d-c3f4-46ba-bb1e-9a3830686fdf" />
-) | ![Typing](<img width="1916" height="970" alt="image" src="https://github.com/user-attachments/assets/07c39586-4848-43e4-8f4d-a82d0cf7e9f2" />
-) | ![Escalation](<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/c3a877cd-b75c-4679-9a2c-87a12a80700e" />
-) |
+| ![Chat UI](<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/b948587d-c3f4-46ba-bb1e-9a3830686fdf" />) | ![Typing](<img width="1916" height="970" alt="image" src="https://github.com/user-attachments/assets/07c39586-4848-43e4-8f4d-a82d0cf7e9f2" />) | ![Escalation](<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/c3a877cd-b75c-4679-9a2c-87a12a80700e" />) |
 
 ---
 
