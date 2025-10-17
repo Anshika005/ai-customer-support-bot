@@ -1,4 +1,4 @@
-# 💬 AI Support Bot by Anshika Mishra
+# 💬 AI Customer Support Bot 
 
 An interactive **AI-powered customer support chatbot** built using **Flask**, **SQLite**, and **Google Gemini API**.  
 The bot simulates a real support assistant that answers user queries, maintains chat history, and auto-detects when a conversation should be escalated to human support.
