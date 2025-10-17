@@ -18,12 +18,6 @@ The bot simulates a real support assistant that answers user queries, maintains 
 ---
 
 ## 🖼️ Screenshots
-  
-
-| Chat Interface | Typing Animation | Escalation Example |
-| :-------------: | :--------------: | :----------------: |
-| ![Chat UI](https://github.com/Anshika005/ai-customer-support-bot/blob/main/Screenshot%202025-10-17%20040350.png) | ![Typing](https://github.com/Anshika005/ai-customer-support-bot/blob/main/Screenshot%202025-10-17%20040427.png) | ![Escalation](https://github.com/Anshika005/ai-customer-support-bot/blob/main/Screenshot%202025-10-17%20035514.png) |
-## 🖼️ Screenshots
 
 ### 💬 Chat Interface
 ![Chat UI](https://github.com/Anshika005/ai-customer-support-bot/blob/main/Screenshot%202025-10-17%20040350.png?raw=true)
