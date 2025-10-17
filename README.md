@@ -23,6 +23,20 @@ The bot simulates a real support assistant that answers user queries, maintains 
 | Chat Interface | Typing Animation | Escalation Example |
 | :-------------: | :--------------: | :----------------: |
 | ![Chat UI](https://github.com/Anshika005/ai-customer-support-bot/blob/main/Screenshot%202025-10-17%20040350.png) | ![Typing](https://github.com/Anshika005/ai-customer-support-bot/blob/main/Screenshot%202025-10-17%20040427.png) | ![Escalation](https://github.com/Anshika005/ai-customer-support-bot/blob/main/Screenshot%202025-10-17%20035514.png) |
+## 🖼️ Screenshots
+
+### 💬 Chat Interface
+![Chat UI](https://github.com/Anshika005/ai-customer-support-bot/blob/main/Screenshot%202025-10-17%20040350.png?raw=true)
+
+---
+
+### ⌨️ Typing Animation
+![Typing](https://github.com/Anshika005/ai-customer-support-bot/blob/main/Screenshot%202025-10-17%20040427.png?raw=true)
+
+---
+
+### 🚨 Escalation Example
+![Escalation](https://github.com/Anshika005/ai-customer-support-bot/blob/main/Screenshot%202025-10-17%20035514.png?raw=true)
 
 ---
 
@@ -141,5 +155,3 @@ If you like this project, give it a ⭐ on GitHub — it really helps!
 ```
 
 Frontend: HTML, CSS, JS
-
-Deployment: Vercel (Serverless Functions)
