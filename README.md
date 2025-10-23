@@ -131,14 +131,6 @@ Now open your browser and go to 👉
 
 ---
 
-## 🧑‍💻 Author
-
-**👩‍💻 Anshika Mishra**
-📍 CSE Student, VIT Bhopal
-💌 [LinkedIn](#) · [GitHub](#)
-
----
-
 ## ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub — it really helps!
