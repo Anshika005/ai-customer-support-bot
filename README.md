@@ -16,13 +16,20 @@ The bot simulates a real support assistant that answers user queries, maintains 
 - 🕒 Context memory — remembers recent messages for better answers
 
 ---
-
 ## 🖼️ Screenshots
-  
 
-| Chat Interface | Typing Animation | Escalation Example |
-| :-------------: | :--------------: | :----------------: |
-| ![Chat UI](<Screenshot 2025-10-17 040350.png>) | ![Typing](<Screenshot 2025-10-17 040427.png>) | ![Escalation](<Screenshot 2025-10-17 035514.png>) |
+### 💬 Chat Interface
+![Chat UI](Screenshot 2025-10-17 040350.png)
+
+---
+
+### ⌨️ Typing Animation
+![Typing](Screenshot 2025-10-17 040427.png)
+
+---
+
+### 🚨 Escalation Example
+![Escalation](Screenshot 2025-10-17 035514.png)
 
 ---
 
